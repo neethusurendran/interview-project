@@ -1,0 +1,22 @@
+.checkoutProduct{
+    display: flex;
+}
+.checkoutProduct_image{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+.checkoutProduct_description{
+    padding-left: 20px;
+}
+.check_button{
+    background-color: rgb(236, 213, 195);
+    border: 1px solid;
+    border-color: rgb(219, 116, 137);
+}
+.check_button:hover{
+    color: rgb(16, 131, 131);
+    
+  
+    
+}
